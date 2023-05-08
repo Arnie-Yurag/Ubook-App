@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UBOOK</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="create">Create an account</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="signUp">Sign Up</string>
+</resources>

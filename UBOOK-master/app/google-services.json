@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809420252519",
+    "project_id": "ubook-beff9",
+    "storage_bucket": "ubook-beff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809420252519:android:67c90375e58066dbe1bbc2",
+        "android_client_info": {
+          "package_name": "com.example.ubook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809420252519-ilch3aa3khdpg39ekpmkbo50d8jvnfle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93GYgTVSwtwGuzAiq5ZHtpIAqfu5xACo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809420252519-ilch3aa3khdpg39ekpmkbo50d8jvnfle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
